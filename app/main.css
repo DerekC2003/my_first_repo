@@ -8,6 +8,7 @@ h2 {
 .pointer {
 	cursor: pointer;
 }
+.red {color:red;}
 
 body {
 	background-color: black
